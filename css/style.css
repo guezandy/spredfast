@@ -1,0 +1,36 @@
+html,
+body {
+	height:100%;
+	background-color: #555;
+}
+
+h1 {
+	color: #fff;
+	text-align: center;
+}
+p {
+	display:inline;
+	color: #f00;
+}
+.center {
+	margin: 40px auto;
+    width: 40%;
+    border:3px solid #fff;
+    border-radius: 25px;
+    padding: 10px;
+    background-color: #000;
+}
+
+.results {
+	width:100%;
+	height:100%;
+	color: #fff;
+}
+
+.results table {
+	text-align: center;
+	margin: 0 auto;
+	border-color: #00f;
+	border-width: 5px;
+
+}
